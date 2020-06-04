@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "487315080795",
+    "firebase_url": "https://fir-maillogin-971df.firebaseio.com",
+    "project_id": "fir-maillogin-971df",
+    "storage_bucket": "fir-maillogin-971df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487315080795:android:3e5b3778389b4e9907617e",
+        "android_client_info": {
+          "package_name": "com.harun.firebasemaillogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487315080795-9f1h0a9c138k0gq9i460kfd3qf0gllmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDVr0S5Z-c68ka72mDycUjPY2njR6x8g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487315080795-9f1h0a9c138k0gq9i460kfd3qf0gllmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
