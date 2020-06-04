@@ -3,4 +3,6 @@
  
 https://harun.xyz/android/firebase-uyelik-ve-giris-sistemi-e-posta-sifre/
 
-![Firebase Üyelik ve Giriş Sistemi](firebase_mail_ile_giris.jpg width="250" height="500")
+![Firebase Üyelik ve Giriş Sistemi](firebase_mail_ile_giris.jpg)
+
+<img src="https://github.com/MrNirva/Firebase-Mail-Login/blob/master/firebase_mail_ile_giris.jpg" width="100">
